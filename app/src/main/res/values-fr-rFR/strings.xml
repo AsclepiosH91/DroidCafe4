@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droid Café 4</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="nav_header_desc">En tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="intro_text">Droid Desserts</string>
+    <string name="choose_a_dessert">Choisissez un dessert</string>
+    <string name="donuts">Les beignets sont glacés et saupoudrés de bonbons.</string>
+    <string name="ice_cream_sandwiches">Les sandwichs à la crème glacée ont des gaufrettes au chocolat et un fourrage à la vanille</string>
+    <string name="froyo">FroYo est un yogourt glacé libre-service de première qualité.</string>
+    <string name="donut_order_message">Vous avez commandé un beignet.</string>
+    <string name="ice_cream_order_message">Vous avez commandé un sandwich à la crème glacée.</string>
+    <string name="froyo_order_message">Vous avez commandé un FroYo.</string>
+    <string name="choose_delivery_method">Choisissez une méthode de livraison :</string>
+    <string name="same_day_messenger_service">Service de livraison le jour même</string>
+    <string name="next_day_ground_delivery">Livraison le lendemain</string>
+    <string name="pick_up">Pick up</string>
+    <string name="chosen">Choisi :</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_order">Commande</string>
+    <string name="action_status">Statut</string>
+    <string name="action_favorites">Favoris</string>
+    <string name="action_order_message">Vous avez sélectionné Commande</string>
+    <string name="action_status_message">Vous avez sélectionné Statut</string>
+    <string name="action_favorites_message">Vous avez sélectionné Favoris</string>
+    <string name="action_contact_message">Vous avez sélectionné Contact</string>
+    <string name="title_activity_order">Activité de commande</string>
+    <string name="nothing_clicked">onRadioButtonClicked: Rien n\'a été cliqué.</string>
+    <string name="order_activity_name">Commande</string>
+    <string name="order_button_label">Commande</string>
+    <string name="you_choose">Vous avez choisis :</string>
+    <string name="choose_delivery">Veuillez choisir une option de livraison</string>
+    <string name="action_cut">Couper</string>
+    <string name="action_copy">Copier</string>
+    <string name="action_paste">Coller</string>
+    <string name="action_new">Nouveau</string>
+    <string name="drawer_open">Ouvrir</string>
+    <string name="drawer_close">Fermer</string>
+</resources>
